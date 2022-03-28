@@ -9,8 +9,6 @@ The Book search engine uses the MERN stack and with a React front end, MongoDB d
   - [Technologies](#technologies)
   - [Credits](#credits)
   - [License](#license)
-  - [Contribution](#contributing)
-  - [Tests](#tests)
   - [Questions](#questions)
   - [Screenshots](#screenshots)
 
@@ -27,7 +25,7 @@ The Book search engine uses the MERN stack and with a React front end, MongoDB d
 
   ## Credits:
 
-  Made by Cameron Wills
+ Made by [Phillip MacDonald](https://github.com/pmacdonald15)
 
 
   ## License:
@@ -36,22 +34,11 @@ The Book search engine uses the MERN stack and with a React front end, MongoDB d
 
   [License](https://opensource.org/licenses/MIT)
 
-
-  ## Contributing:
-
-  [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
-  
-  The project is open-source
-
   ## Screenshots
   ![Capture](https://user-images.githubusercontent.com/68020747/103809496-96ddd880-5027-11eb-97a7-e0b54e0cdfce.PNG)![signup](https://user-images.githubusercontent.com/68020747/103809507-9b09f600-5027-11eb-9907-ea1bfbd4055a.PNG)
 ![login](https://user-images.githubusercontent.com/68020747/103809498-98a79c00-5027-11eb-8c5c-f37654f7d0b9.PNG)
 ![saved](https://user-images.githubusercontent.com/68020747/103809501-99403280-5027-11eb-959a-777dc48d2a0a.PNG)
 ![searched](https://user-images.githubusercontent.com/68020747/103809504-9a715f80-5027-11eb-87b0-68a151cc34f6.PNG)
-  ## Tests:
-
-  no testing
-
   
   ## Questions:
 
