@@ -1,7 +1,7 @@
 # book-search-engine
 
 ## Description:
-The Book search engine uses the MERN stack and with a React front end, MongoDB database, and Node js & Express js server. It's set up to allow users to save book searches to their profile and view the books and their details. The application is built using Google Books API so that users can click a link that takes them to google books. The search engine is built with GraphQL API and Apollo Server.
+The Book search engine uses the MERN stack and with a React front end, MongoDB database, and Node js & Express js server. The user is able to search for a book and then the Google API allows them to click a link that will take them to that book in Google Books. The user may also save their book searches.
 
   # Table of Contents
 
