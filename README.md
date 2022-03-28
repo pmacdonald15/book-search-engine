@@ -56,7 +56,6 @@ The Book search engine uses the MERN stack and with a React front end, MongoDB d
   ## Questions:
 
   For any questions you may have, please visit my Github profile:
-  - [Github Profile](https://github.com/CamWills89)
+  - [Github Profile](https://github.com/pmacdonald15)
 
-  If you have any additional questions, feel free to email them to me:
-  - [Email](cameron.wills89@outlook.com)
+  If you have any additional questions, feel free to open an [ISSUE](https://github.com/pmacdonald15/book-search-engine/issues)
